@@ -8,12 +8,12 @@
 }
 
 nav {
-    border-color: #282829;
+    background-color: #282829;
     padding: 15px 0;
 }
 
 .container {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -27,14 +27,14 @@ ul {
 display: flex;
 gap: 30px;
 list-style-type: none;
+margin-left: 1000px;
 }
 
 
 ul li a {
-color: white;
+color: rgb(255, 255, 255);
 font-family: Inter;
 font-size: 18px;
-font-weight: 500;
 line-height: 21.78px;
 text-decoration: none;
 }
@@ -63,16 +63,21 @@ height: 400px;
 
 }
 
-img {
+  img {
     width:303px;
     height: 150px;
 }
 
 
 footer {
-    border-color: #282829;
+    background-color: #282829;
     padding: 15px 0;
+    
 }
+
+
+
+
 
 
 
